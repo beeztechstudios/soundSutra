@@ -1553,6 +1553,11 @@ textarea.w-select {
 .w-richtext figure.w-richtext-align-fullwidth > figcaption {
   display: block;
 }
+.footer-logo-small {
+  width: 280px;  /* adjust this value to your liking */
+  height: auto;
+  border-radius: 20px;
+}
 .w-richtext figure.w-richtext-align-floatleft {
   float: left;
   margin-right: 15px;
